@@ -11,9 +11,15 @@ The repository contains the Sales and Profit dashboards in Tableau.
 The Sales Dashboard provides an in-depth view of sales performance, including total sales, sales by region, product categories, and sales trends over time.
 This Dashboard provides insight for Revenue By Market and Revenue By Sales, Top 5 Products and Top 5 Customer and Annual Total Sales Quantity. 
 
+![image](https://github.com/Julekha5402/Sales-and-Profit-Dashboard/assets/84932030/435a2d4e-2b33-48c0-a3b9-22d47642d453)
+
+
 ### Profit Dashboard
 The Profit Dashboard gives us the information for Revenue By Market, Profit Margin Percentage By Market and Classification of Products like E-commerce and Brick and Mortar.
 The Increasing Graph trend between Revenue and Profit Margin Percentage. And Customer table provides full information about Revenue, Profit Margin Percentage and Profit Margin.
+
+![image](https://github.com/Julekha5402/Sales-and-Profit-Dashboard/assets/84932030/5df4f388-d35f-4af9-b532-48c54c51e033)
+
 
 These dashboards are designed to be highly interactive, allowing users to drill down into the data for deeper insights. 
 They serve as powerful tools for decision-making, enabling stakeholders to identify trends, make informed decisions, and strategize for future growth.
